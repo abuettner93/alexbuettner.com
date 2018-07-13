@@ -205,14 +205,14 @@ defaultContentLanguageInSubdir = false
     link = "https://www.linkedin.com/in/alex-buettner/"
   
   [[params.social]]
-    icon = "facebook"
+    icon = "facebook-square"
     icon_pack = "fa"
     link = "https://www.facebook.com/alex.buettner"  
     
-  [[params.social]]
-    icon = "facebook-messenger"
-    icon_pack = "fa"
-    link = "http://m.me/alex.buettner"
+#   [[params.social]]
+#     icon = "facebook-messenger"
+#     icon_pack = "fa"
+#     link = "http://m.me/alex.buettner"
 
 # Configuration of talk pages.
   [params.talks]
