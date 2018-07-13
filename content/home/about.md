@@ -34,7 +34,12 @@ weight = 1
 
 # About me
 
-I am currently a graduate student in Chemical Engineering at the <a href = "https://www.unr.edu">University of Nevada, Reno (UNR)</a> in Reno, Nevada. 
+I am currently a graduate student in Chemical Engineering at the <a href = "https://www.unr.edu">University of Nevada, Reno</a> in Reno, Nevada. I have lived in Reno for the past 6 years (2012-2018) and will be completing my masters degree in December 2018.
+My research involves the study of clinical processes and their optimization via the use of machine learning. I am also working on the modernization of personalized health care in the form of patient-centered monitoring, diagnosis, and treatment. My thesis dabbles in both of these fields, with the common theme of machine learning bridging the gap. In my undergraduate years I studied molecular dynamics and computational chemistry to better understand complex phenomena in reverse micelle systems (think soap bubbles), and how those systems could be used as nano-reactors in industry.
+
+In my spare time (as well as my research time) I do coding projects in Python and Linux environments. I have been an avid computer geek since I was 14 years old, and since then I have built my skills to serve my research and personal interests. I started coding in Python my freshman year of college, and since then have gotten quite comfortable with the Slytherin language. I often work on challenging math and science related problems for fun, and occasionally have cool or useful snippets of code as the result. Ranging from prime number studies to beating the stock market, I always find something interesting to code. I am currently working with a colleague to develop and platform for molecular modeling that is entirely open source; with the obvious caveat of that taking a lot of time and effort to produce. But all in a days work.
+
+Though I am heavily involved in academic research, I also enjoy doing all the things this little town has to offer. Between downtown adventures and trips to Lake Tahoe, Reno has always given me something to do. Recently I took a trip to the lake for the fourth of July, and wow! Fireworks over the lake are my new favorite thing; especially while on a boat 300 yards from the fireworks barge! In the winter I love to ski and spend time up in the snow. When the mountains are only an hour away, there really is no excuse!
 
 
 <!-- 
