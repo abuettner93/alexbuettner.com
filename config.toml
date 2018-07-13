@@ -31,7 +31,7 @@ defaultContentLanguageInSubdir = false
   organization_url = "http://www.unr.edu/"
   avatar = "abuettner.jpg"
   email = "alex.buettner93@gmail.com"
-  address = "Chemical & Materials Engineering Department, Mail Stop 170, University of Nevada, Reno, 1664 North Virginia Street, Reno, Nevada 89557, USA"
+  address = "Chemical & Materials Engineering Department, University of Nevada, Reno, 1664 North Virginia Street, Reno, Nevada 89557, USA"
   office_hours = ""
   phone = "(702) 696-8458"
   skype = "abuettner"
@@ -60,11 +60,11 @@ defaultContentLanguageInSubdir = false
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-#   map = 3
-#   maps_api_key = "pk.eyJ1IjoidnJ2YXNxdWV6aiIsImEiOiJjaml4YWV6cncwcngwM29xamI5M2ljOHYzIn0.tQPwmTaNFsg64gNB--Y3fw" 
-#   latitude = "39.538554"
-#   longitude = "-119.813024"
-#   zoom = 17
+  map = 3
+  maps_api_key = "pk.eyJ1IjoiYWJ1ZXR0bmVyIiwiYSI6ImNqamtlZHkxaTEzeXMzcnNvNDZvYjg2cmUifQ.7M9iC401rtTBKv6hZmpSaA" 
+  latitude = "39.538554"
+  longitude = "-119.813024"
+  zoom = 17
 
   # Date format (refer to Go's date format: http://flippinggodateformat.com )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
