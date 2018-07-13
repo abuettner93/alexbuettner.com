@@ -1,0 +1,269 @@
+baseurl = "https://www.alexbuettner.com/"
+title = "Alex B Buettner"
+copyright = "&copy; 2018 Alex B Buettner"
+theme = "academic"
+enableEmoji = true
+footnotereturnlinkcontents = "<sup>^</sup>"
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+paginate = 10
+preserveTaxonomyNames = true
+
+# Enable comments by entering your Disqus shortname
+disqusShortname = ""
+
+# Enable analytics by entering your Google Analytics tracking ID
+# googleAnalytics = "UA-99209585-1"
+
+# Default language to use (if you setup multilingual support)
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
+
+[blackfriday]
+  hrefTargetBlank = true
+  fractions = true
+  smartypants = true
+  
+[params]
+  name = "Alex B Buettner"
+  description = "A site about academic life"
+  role = "Graduate student in Chemical Engineering"
+  organization = "University of Nevada, Reno (UNR)"
+  organization_url = "http://www.unr.edu/"
+  avatar = "abuettner.jpg"
+  email = "alex.buettner93@gmail.com"
+  address = "Chemical & Materials Engineering Department, Mail Stop 170, University of Nevada, Reno, 1664 North Virginia Street, Reno, Nevada 89557, USA"
+  office_hours = ""
+  phone = "(775) 696-8458"
+  skype = "abuettner"
+  telegram = ""
+  twitter = ""
+  github = ""
+  paginate = 10
+  # font = "my_fonts"
+  # color_theme = "my_theme"
+  
+  # Enable Keybase in Contact section by entering your keybase.io username.
+  keybase = ""
+
+  # Enable/disable map in Contact widget.
+  # To show your address on a map in the contact widget, you need to enter your latitude, longitude and choose
+  # a map provider below.
+  # To use Google Maps, set `map = 1` and enter your API key that can be obtained here:
+  #   https://developers.google.com/maps/documentation/javascript/get-api-key
+  # To use OpenStreetMap tiles, set `map = 2`.
+  # To use OpenStreetMap on a high traffic site, set `map = 3` and enter your API key that can be obtained here:
+  #   https://www.mapbox.com/studio/account/tokens
+  # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
+  #
+  # Map provider:
+  #   0: No map
+  #   1: Google Maps
+  #   2: OpenStreetMap (Mapnik)
+  #   3: OpenStreetMap (Mapbox)
+#   map = 3
+#   maps_api_key = "pk.eyJ1IjoidnJ2YXNxdWV6aiIsImEiOiJjaml4YWV6cncwcngwM29xamI5M2ljOHYzIn0.tQPwmTaNFsg64gNB--Y3fw" 
+#   latitude = "39.538554"
+#   longitude = "-119.813024"
+#   zoom = 17
+
+  # Date format (refer to Go's date format: http://flippinggodateformat.com )
+  #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
+  date_format = "Mon, Jan 2, 2006"
+
+# Display next/previous section pager?
+  section_pager = true
+
+  # Enable global LaTeX math rendering?
+  #   If false, you can enable it locally on a per page basis.
+  math = true
+
+  # Highlight.js options
+  #   highlight
+  #     Enable global source code highlighting?  If false, you can
+  #     override it for a particular page in that page's preamble.
+  #
+  #     Example: highlight = true
+  #
+  #   highlight_languages
+  #     Add support for highlighting additional languages. Support for
+  #     languages mentioned here will be included in all pages. You
+  #     can also set this variable for a particular page in that
+  #     page's preamble.
+  #
+  #     Example: highlight_languages = ["go", "lisp", "ocaml"]
+  #
+  #   highlight_style
+  #     Choose a different CSS style for highlighting source
+  #     code. Setting this option in a page's preamble has no
+  #     effect.
+  #
+  #     Example: highlight_style = "github-gist"
+  #
+  #   highlight_version
+  #     Choose the version of highlight.js you want. Setting this
+  #     option in a page's preamble has no effect.
+  #
+  #     Example: highlight_version = "9.9.0"
+  #
+  #   For the list of supported languages, styles, and versions, see:
+  #   https://cdnjs.com/libraries/highlight.js/
+  #
+  #   For more info on the highlighting options, see:
+  #   https://gcushen.github.io/hugo-academic-demo/post/writing-markdown-latex/#highlighting-options
+  highlight = true
+  highlight_languages = ["r", "yaml"]
+  highlight_style = "atom-one-light"
+  highlight_version = "9.9.0"
+
+  # Enable native social sharing buttons?
+  sharing = true
+
+  # Link custom CSS and JS assets
+  #   (relative to /static/css and /static/js respectively)
+  custom_css = ["blue-vasquez.css"]
+  custom_js  = []
+
+  # Publication types.
+  #   Used to categorize publications.
+  #   The index of the publication type in the list is used as its unique numerical identifier.
+  #   The numeric ID is used in a publication's frontmatter to categorize it.
+  #   The language can be edited below.
+  #   For multi-lingual sites, copy this block to each language section at the end of this file.
+  publication_types = [
+    'Uncategorized',  # 0
+    'Conference proceedings',  # 1
+    'Journal',  # 2
+    'Under Review',  # 3
+    'Technical report',  # 4
+    'Book',  # 5
+    'Book chapter'  # 6
+  ]
+
+  # Social/Academic Networking
+  #
+  # Icon pack "fa" includes the following social network icons:
+  #
+  #   twitter, weibo, linkedin, github, facebook, pinterest, google-plus,
+  #   youtube, instagram, soundcloud
+  #
+  #   For email icon, use "fa" icon pack, "envelope" icon, and
+  #   "mailto:your@email.com" as the link.
+  #
+  #   Full list: https://fortawesome.github.io/Font-Awesome/icons/
+  #
+  # Icon pack "ai" includes the following academic network icons:
+  #
+  #   google-scholar, arxiv, orcid, researchgate, mendeley
+  #
+  #   Full list: https://jpswalsh.github.io/academicons/
+  
+  [[params.social]]
+#     icon = "paper-plane"
+    icon = "envelope"
+    icon_pack = "fa"
+    link = "mailto:alex.buettner93@gmail.com"
+
+#   [[params.social]]
+#     icon = "twitter"
+#     icon_pack = "fa"
+#     link = "//twitter.com/viticorcr"
+
+#   [[params.social]]
+#     icon = "google-scholar"
+#     icon_pack = "ai"
+#     link = "https://scholar.google.com/citations?user=EYPQDBsAAAAJ&hl=en"
+# 
+#   [[params.social]]
+#     icon = "github"
+#     icon_pack = "fa"
+#     link = "//github.com/viticor"
+#     
+#   [[params.social]]
+#     icon = "orcid"
+#     icon_pack = "ai"
+#     link = "http://orcid.org/0000-0002-6604-8096"
+#     
+#   [[params.social]]
+#     icon = "academia"
+#     icon_pack = "ai"
+#     link = "https://nevada-reno.academia.edu/VictorRVasquez"    
+    
+  [[params.social]]
+    icon = "researchgate"
+    icon_pack = "ai"
+    link = "https://www.researchgate.net/profile/Alex_Buettner"
+    
+  [[params.social]]
+    icon = "google-scholar"
+    icon_pack = "ai"
+    link = "https://scholar.google.com/citations?user=0jE75_YAAAAJ&hl=en"  
+  
+  [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "https://www.linkedin.com/in/alex-buettner/"
+
+# Configuration of talk pages.
+  [params.talks]
+    # Show talk time?
+    time = false
+
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+[[menu.main]]
+  name = "Home"
+  url = "#about"
+  weight = 1
+
+[[menu.main]]
+  name = "Publications"
+  url = "#publications"
+  weight = 2
+
+# [[menu.main]]
+#   name = "Talks & Workshops"
+#   url = "#talks"
+#   weight = 3
+# 
+# [[menu.main]]
+#   name = "Teaching"
+#   url = "/teaching/index.html"
+#   weight = 4
+
+[[menu.main]]
+  name = "Research"
+  url = "#projects"
+  weight = 3
+
+[[menu.main]]
+  name = "News & Posts"
+  url = "#posts"
+  weight = 4
+
+[[menu.main]]
+  name = "Contact"
+  url = "#contact"
+  weight = 5
+
+# Taxonomies.
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  publication_type = "publication_types"
+
+
+# Languages
+#   Create a [languages.X] block for each language you want, where X is the language ID.
+
+# Configure the English version of the website.
+[languages.en]
+  languageCode = "en-us"
+  
+[outputs]
+  home = [ "HTML", "CSS", "RSS" ]
+  section = [ "HTML", "RSS" ]
+  taxonomy = [ "HTML", "RSS" ]
+  taxonomyTerm = [ "HTML", "RSS" ]
