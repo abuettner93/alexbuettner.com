@@ -34,7 +34,7 @@ defaultContentLanguageInSubdir = false
   address = "Chemical & Materials Engineering Department, University of Nevada, Reno, 1664 North Virginia Street, Reno, Nevada 89557, USA"
   office_hours = ""
   phone = "(702) 696-8458"
-  skype = "abuettner"
+  skype = "abuettner93"
   telegram = ""
   twitter = ""
   github = "abuettner93"
@@ -203,6 +203,11 @@ defaultContentLanguageInSubdir = false
     icon = "linkedin"
     icon_pack = "fa"
     link = "https://www.linkedin.com/in/alex-buettner/"
+
+  [[params.social]]
+    icon = "skype"
+    icon_pack = "fa"
+    link = "skype:abuettner93?call"
 
 # Configuration of talk pages.
   [params.talks]
