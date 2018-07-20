@@ -24,10 +24,7 @@ preview = true
 
 ## Abstract
 
-Metal hexaborides are refractory ceramics displaying a variety of electronic properties related to
-transport and spin states as the metal species are interchanged. A boron framework stitched
+Metal hexaborides are refractory ceramics displaying a variety of electronic properties related to transport and spin states as the metal species are interchanged. A boron framework stitched
 through covalent bonds provides structural rigidity allowing these materials to withstand
 extreme operating conditions, while the particular choice of cation generally dictates the
-electrical properties. This work utilizes a variety of computational tools to study various aspects
-of these materials, including bulk dynamics, surface properties, hydrogen adsorption, and ternary
-mixture stability.
+electrical properties. This work utilizes a variety of computational tools to study various aspects of these materials, including bulk dynamics, surface properties, hydrogen adsorption, and ternary mixture stability.
