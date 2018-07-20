@@ -209,6 +209,11 @@ defaultContentLanguageInSubdir = false
     icon_pack = "fa"
     link = "https://www.facebook.com/alex.buettner"  
     
+  [[params.social]]
+    icon = "cv"
+    icon_pack = "ai"
+    link = "docs/CV_alex.pdf"  
+    
 #   [[params.social]]
 #     icon = "facebook-messenger"
 #     icon_pack = "fa"
