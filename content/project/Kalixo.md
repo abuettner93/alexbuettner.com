@@ -31,7 +31,8 @@ The Kalixo molecular modeling framework (KMMF) is a tool for producing a system 
 
 The generated potentials will be of a new kind, so named: 
 
-**K**alixo **I**nversion **T**echnique **T**o **I**ntegrate **E**lectronic **S**tructure **M**ethods, **E**nabling **O**ptimum **W**orking 
+**K**alixo **I**nversion **T**echnique **T**o **I**ntegrate **E**lectronic **S**tructure 
+<br/><br/>**M**ethods **E**nabling **O**ptimum **W**orking 
 
 or as we call it in the biz, the *KITTIES-MEOW* Potential.
 
