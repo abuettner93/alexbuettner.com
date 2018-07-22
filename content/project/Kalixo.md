@@ -9,7 +9,7 @@ title = "Kalixo Molecular Modeling Framework"
 summary = "The Kalixo molecular modeling framework (KMMF) is a tool for producing a system of interaction potentials for molecular dynamics (MD) using a generalized lattice inversion approach."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "kalixo_logo1.png"
+image_preview = "kalixo_logo2.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
