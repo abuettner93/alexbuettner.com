@@ -33,7 +33,7 @@ weight = 1
 +++
 
 # About me
-I recently earned my masters degree in chemical engineering from the <a href = "https://www.unr.edu">University of Nevada, Reno</a> in Reno, Nevada. My thesis is titled "Clinical Dataset Analysis and Patient Outcome Prediction via Machine Learning", which has enabled me to jump into the field of data science now that I have completed it.
+I recently earned my masters degree in chemical engineering from the <a href = "https://www.unr.edu">University of Nevada, Reno</a> in Reno, Nevada. My thesis is titled "Clinical Dataset Analysis and Patient Outcome Prediction via Machine Learning", which has enabled me to jump into the field of data science and begin my career as an engineer.
 
 My research involves the study of clinical processes and their analysis/optimization via the use of machine learning. I am also working on the modernization of personalized health care in the form of patient-centered monitoring, diagnosis, and treatment. I have gained significant insight into applications of modern machine learning methods, including neural networks, Markov models, and Bayesian models, which I hope to apply in industry. In my undergraduate years I studied molecular dynamics and computational chemistry to better understand complex phenomena in reverse micelle systems (think soap bubbles), and how those systems could be used as nano-reactors in production environments.
 
