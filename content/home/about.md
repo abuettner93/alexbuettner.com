@@ -12,6 +12,8 @@ weight = 1
 # List your academic interests.
 [interests]
   interests = [
+    "Data Engineering",
+    "Big Data",
     "Process Modeling & Simulation",
     "Machine Learning & AI",
     "Scientific Computing",
@@ -33,9 +35,11 @@ weight = 1
 +++
 
 # About me
+I am currently employed as a data engineer with Everis/BBVA Compass in the Birmingham, AL area. I will be handling data ingestion and analysis into big data platforms. 
+
 I recently earned my masters degree in chemical engineering from the <a href = "https://www.unr.edu">University of Nevada, Reno</a> in Reno, Nevada. My thesis is titled "Clinical Dataset Analysis and Patient Outcome Prediction via Machine Learning", which has enabled me to jump into the field of data science and begin my career as an engineer.
 
-My research involves the study of clinical processes and their analysis/optimization via the use of machine learning. I am also working on the modernization of personalized health care in the form of patient-centered monitoring, diagnosis, and treatment. I have gained significant insight into applications of modern machine learning methods, including neural networks, Markov models, and Bayesian models, which I hope to apply in industry. In my undergraduate years I studied molecular dynamics and computational chemistry to better understand complex phenomena in reverse micelle systems (think soap bubbles), and how those systems could be used as nano-reactors in production environments.
+My graduate research involved the study of clinical processes and their analysis/optimization via the use of machine learning. I am also working on the modernization of personalized health care in the form of patient-centered monitoring, diagnosis, and treatment. I have gained significant insight into applications of modern machine learning methods, including neural networks, Markov models, and Bayesian models, which I hope to apply in industry. In my undergraduate years I studied molecular dynamics and computational chemistry to better understand complex phenomena in reverse micelle systems (think soap bubbles), and how those systems could be used as nano-reactors in production environments.
 
 In my spare time (as well as my research time) I do coding projects in Python and Linux environments. I have been an avid computer guy since I was 14 years old, and since then I have built my skills to serve my research and personal interests. I started coding in Python my freshman year of college, and since then have gotten quite comfortable with the ever-growing language. I often work on challenging math and science related problems for fun, and occasionally have cool or useful snippets of code as the result. Ranging from prime number studies to beating the stock market, I always find something interesting to code. I am currently working with a colleague to develop and platform for molecular modeling that is entirely open source; with the obvious caveat of that taking a lot of time and effort to produce. But all in a days work.
 
