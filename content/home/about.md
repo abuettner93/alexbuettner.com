@@ -45,8 +45,8 @@ My graduate research involved the study of clinical processes and their analysis
 In my spare time (as well as my research time) I do coding projects in Python and Linux environments. I have been an avid computer guy since I was 14 years old, and since then I have built my skills to serve my research and personal interests. I started coding in Python my freshman year of college, and since then have gotten quite comfortable with the ever-growing language. I often work on challenging math and science related problems for fun, and occasionally have cool or useful snippets of code as the result. Ranging from prime number studies to beating the stock market, I always find something interesting to code. I am currently working with a colleague to develop and platform for molecular modeling that is entirely open source; with the obvious caveat of that taking a lot of time and effort to produce. But all in a days work.
 
 
-# Though I am heavily involved in academic research and developing my career, I also enjoy doing many things outside of the office. Between downtown adventures and trips to Lake Tahoe, Reno has always given me something to do. Recently I took a trip to the lake for the fourth of July, and wow! Fireworks over the lake are my new favorite thing; especially while on a boat 300 yards from the fireworks barge! In the winter I love to ski and spend time up in the snow. When world class skiing is only an hour away, there really is no excuse!
-
+<!-- Though I am heavily involved in academic research and developing my career, I also enjoy doing many things outside of the office. Between downtown adventures and trips to Lake Tahoe, Reno has always given me something to do. Recently I took a trip to the lake for the fourth of July, and wow! Fireworks over the lake are my new favorite thing; especially while on a boat 300 yards from the fireworks barge! In the winter I love to ski and spend time up in the snow. When world class skiing is only an hour away, there really is no excuse!
+-->
 
 <!-- 
 I earned my doctorate in chemical engineering with emphasis in thermodynamics, chemical process modeling & simulation. My current 
