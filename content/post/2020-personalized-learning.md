@@ -15,9 +15,11 @@ categories = []
 # Set `preview` to `false` to disable the thumbnail in listings.
 [header]
 image = ""
-caption = "Personalized Learning"
+caption = ""
 preview = true
 
 +++
 
 In collaboration with Dr. Victor Vasquez and Dr. Kevin Schmidt, I have embarked on a journey to help develop a machine learning and AI driven framework for personalized learning.  
+
+## Goals
