@@ -5,7 +5,7 @@ draft = false
 summary = "New collaborative, personalized learning project with Dr. Victor Vasquez and Dr. Kevin Schmidt"
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["AI", "Machine Learning", "Big Data", "Personalized"]
+tags = ["AI", "machine-learning", "big-data"]
 categories = []
 
 # Featured image
