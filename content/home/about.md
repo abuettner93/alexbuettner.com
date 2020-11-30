@@ -36,9 +36,12 @@ weight = 1
 +++
 
 # About me
-I am currently employed as a data engineer with Everis/BBVA in the Birmingham, AL area. My role consists of analysis of data source systems and implementation of Extract, Transform, Load (ETL) methodologies.
+I am currently employed as a data engineer with BBVA in the Birmingham, AL area. My role consists of analysis and development of internal big data processes to bring data to front end applications that the bank is releasing. My day to day consists of maintaining and fixing data-related issues for my project, guiding my team as we move forward into the future, and ensuring data availability, all while working from home. 
 
-I recently earned my masters degree in chemical engineering from the <a href = "https://www.unr.edu">University of Nevada, Reno</a> in Reno, Nevada. My thesis is titled "Clinical Dataset Analysis and Patient Outcome Prediction via Machine Learning", which has enabled me to jump into the field of data science and data engineering, and begin my career in a new and excitng field. 
+It has been almost two years since I moved to the South, and I'm loving my new life here. I live with my wonderful girlfriend Kristen, and our two dogs Ruger and Beretta. We all enjoy getting out and enjoying the outdoors (which seems is all we can do these days...) and spending time together at home curled up on the couch. 
+
+
+In December of 2018 I earned my masters degree in chemical engineering from the <a href = "https://www.unr.edu">University of Nevada, Reno</a> in Reno, Nevada. My thesis is titled "Clinical Dataset Analysis and Patient Outcome Prediction via Machine Learning", which has enabled me to jump into the field of data science and data engineering, and begin my career in a new and excitng field. 
 
 My graduate research involved the study of clinical processes and their analysis/optimization via the use of machine learning. I am also working on the modernization of personalized health care in the form of patient-centered monitoring, diagnosis, and treatment. I have gained significant insight into applications of modern machine learning methods, including neural networks, Markov models, and Bayesian models, which I hope to apply in industry. In my undergraduate years I studied molecular dynamics and computational chemistry to better understand complex phenomena in reverse micelle systems (think soap bubbles), and how those systems could be used as nano-reactors in production environments.
 
@@ -48,19 +51,5 @@ In my spare time (as well as my research time) I do coding projects in Python an
 <!-- Though I am heavily involved in academic research and developing my career, I also enjoy doing many things outside of the office. Between downtown adventures and trips to Lake Tahoe, Reno has always given me something to do. Recently I took a trip to the lake for the fourth of July, and wow! Fireworks over the lake are my new favorite thing; especially while on a boat 300 yards from the fireworks barge! In the winter I love to ski and spend time up in the snow. When world class skiing is only an hour away, there really is no excuse!
 -->
 
-<!-- 
-I earned my doctorate in chemical engineering with emphasis in thermodynamics, chemical process modeling & simulation. My current 
-research involves the use of atomistic modeling methods to develop and understand new materials for extreme applications. For instance, 
-the development of metal hexaborides, which are ceramics with unique mechanical and electronic properties; or development of reverse micellar systems for synthesis of nano-particles, are two examples of projects that we work on. We work in close collaboration with experimental groups at the University of California, San Diego and Alfred University.  We are also embarking on new modeling initiaves that involve the use of machine learning methods for various applications in process systems engineering 
-including modeling of health care clinical operations for optimization and better understanding of risk.  
-Our research is driven by the potential and opportunities that cutting edge modeling provide 
-for development of new engineerng technologies. We continously publish in peer-reviewed journals, and present our work in many international 
-and national conferences. I am an active participant in the organization of sessions in annual meetings for the American Institute of Chemical Engineers (AIChE), Materials Research Society (MRS), and the Society of Hispanic Professional Engineers (SHPE). I am currently the 
- adviser for the student local chapters of AIChE \& SHPE. I also work on mentoring of both graduate and 
- undergraduate students from diverse backgrounds, and I have great interest in undergraduate STEM education for 
- diverse student groups, in particular Hispanics. I am also engaged in various leadership 
- roles with university committees, engineering accreditation, and community at large. For example, I served as the Northern Nevada Sierra Director  and member of the executive board for the AIChE NORCAL section from 2010 to 2017. I am very interested in fostering international 
- collaborative research & teaching opportunities with countries in Latin America. 
- -->
 
 
