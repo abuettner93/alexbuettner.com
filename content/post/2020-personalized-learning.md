@@ -1,6 +1,6 @@
 +++
 title = "AI and Machine Learning Driven Personalized Learning Framework"
-date = 2020-11-30T16:51:44-07:00
+date = 2020-11-29T16:51:44-07:00
 draft = false
 summary = "New collaborative, personalized learning project with Dr. Victor Vasquez and Dr. Kevin Schmidt"
 # Tags and categories
