@@ -22,4 +22,3 @@ preview = true
 
 In collaboration with Dr. Victor Vasquez and Dr. Kevin Schmidt, I have embarked on a journey to help develop a machine learning and AI driven framework for personalized learning.  
 
-## Goals
