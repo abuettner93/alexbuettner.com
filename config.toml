@@ -157,11 +157,6 @@ defaultContentLanguageInSubdir = false
   #
   #   Full list: https://jpswalsh.github.io/academicons/
 
-  [[params.social]]
-#     icon = "paper-plane"
-    icon = "envelope"
-    icon_pack = "fa"
-    link = "mailto:alex.buettner93@gmail.com"
 
 #   [[params.social]]
 #     icon = "twitter"
@@ -204,15 +199,6 @@ defaultContentLanguageInSubdir = false
     icon_pack = "fa"
     link = "https://www.linkedin.com/in/alex-buettner/"
 
-  [[params.social]]
-    icon = "facebook-square"
-    icon_pack = "fa"
-    link = "https://www.facebook.com/alex.buettner"
-
-  [[params.social]]
-    icon = "cv"
-    icon_pack = "ai"
-    link = "docs/CV_alex.pdf"
 
 #   [[params.social]]
 #     icon = "facebook-messenger"
