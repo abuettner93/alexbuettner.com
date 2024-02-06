@@ -36,7 +36,7 @@ weight = 1
 +++
 
 # About me
-I am currently employed as a data engineer with BBVA in the Birmingham, AL area. My role consists of analysis and development of internal big data processes to bring data to front end applications that the bank is releasing. My day to day consists of maintaining and fixing data-related issues for my project, guiding my team as we move forward into the future, and ensuring data availability, all while working from home.
+I am currently employed as a data architech with PNC bank in the Birmingham, AL area. My role consists of administration of the Python Analytics Engine (PAE) with the bank, as well as performing ML engineering tasks to bring models into production environments. My day-to-day consists of maintaining user experience on the PAE platform, guiding my team as we move forward into the future, and ensuring we stay up to date with the latest technology and innovation.
 
 In December of 2018 I earned my masters degree in chemical engineering from the <a href = "https://www.unr.edu">University of Nevada, Reno</a> in Reno, Nevada. My thesis is titled "Clinical Dataset Analysis and Patient Outcome Prediction via Machine Learning", which has enabled me to jump into the field of data science and data engineering, and begin my career in a new and exciting field.
 
