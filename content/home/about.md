@@ -14,7 +14,7 @@ weight = 1
   interests = [
     "Data Science",
     "Data Engineering",
-    "Big Data",
+    "ML Engineering",
     "Process Modeling & Simulation",
     "Machine Learning & AI",
     "Scientific Computing",
