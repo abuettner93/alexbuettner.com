@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/10230570-f814-4dfd-b328-5a1c40f0d30c/deploy-status)](https://app.netlify.com/sites/alexbuettner/deploys)
+
 # Personal Website - alexbuettner.com
 
 This website is built using the HUGO **Academic** framework available  [here](https://themes.gohugo.io/theme/academic/). 
